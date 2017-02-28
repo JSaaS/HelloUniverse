@@ -1,0 +1,1 @@
+c:\users\jocke\documents\visual studio 2013\Projects\HelloUniverse\HelloUniverse\bin\Debug\HelloUniverse.exe.config
