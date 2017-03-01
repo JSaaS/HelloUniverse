@@ -12,7 +12,6 @@ namespace HelloUniverse
         {
 
             Console.WriteLine("Hello Universe! Jocke is Building! With trigger? Now then?");
-
             Console.ReadKey();
 
         }
